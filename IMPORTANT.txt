@@ -1,0 +1,8 @@
+Extract and play directly through the Jar file
+
+Please keep the jar file next to the "gamemedia" folder in one folder like this :
+
+
+gamemedia       File folder
+
+Zoo_Invaders    Executale Jar File
